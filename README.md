@@ -4,6 +4,12 @@ This project is a simple Excel-based Sales Analysis Dashboard for a Coffee Shop.
 
 ---
 
+## 📸 Dashboard Preview:
+
+![Coffee Shop Sales Dashboard](Screenshot.png)
+
+---
+
 ## 📁 Project Contents:
 
 - `Coffee_Shop_Sales_Analysis.xlsx` - Interactive Excel dashboard with sales analysis.
